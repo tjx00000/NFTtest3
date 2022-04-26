@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1d8ffd8b68379b7598660af8cf7a36fde2307ae1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xf6bb654462a7072bfc7fe54c1cc09f6c5a1bcf968d25d113e60e6c3c7123f157",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NFTTest",
+  "SYMBOL": "TTNFT",
+  "MAX_SUPPLY":5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nfttest-belkwckm1v",
+  "SHOW_BACKGROUND": true
+}
